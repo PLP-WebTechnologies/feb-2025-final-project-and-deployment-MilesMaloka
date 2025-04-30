@@ -1,0 +1,191 @@
+{
+  "albums": [
+    {
+      "title": "The College Dropout",
+      "releaseDate": "February 10, 2004",
+      "trackList": [
+        "Intro",
+        "We Don't Care",
+        "Graduation Friends Forever",
+        "All Falls Down",
+        "Spaceship",
+        "Jesus Walks",
+        "Never Let Me Down",
+        "Get Em High",
+        "The New Workout Plan",
+        "Through the Wire",
+        "Family Business",
+        "Last Call"
+      ],
+      "image": "assets/albums/the-college-dropout/cover.jpg"
+    },
+    {
+      "title": "Late Registration",
+      "releaseDate": "August 30, 2005",
+      "trackList": [
+        "Wake Up Mr. West",
+        "Heard 'Em Say",
+        "Touch the Sky",
+        "Gold Digger",
+        "Drive Slow",
+        "My Way Home",
+        "Crack Music",
+        "Roses",
+        "Bring Me Down",
+        "Addiction",
+        "Diamonds from Sierra Leone",
+        "We Major",
+        "Hey Mama",
+        "Celebration"
+      ],
+      "image": "assets/albums/late-registration/cover.jpg"
+    },
+    {
+      "title": "Graduation",
+      "releaseDate": "September 11, 2007",
+      "trackList": [
+        "Good Morning",
+        "Champion",
+        "Stronger",
+        "I Wonder",
+        "Good Life",
+        "Can't Tell Me Nothing",
+        "Barry Bonds",
+        "Drunk and Hot Girls",
+        "Street Lights",
+        "Bad News",
+        "See You in My Nightmares",
+        "Coldest Winter",
+        "Pinocchio Story"
+      ],
+      "image": "assets/albums/graduation/cover.jpg"
+    },
+    {
+      "title": "808s & Heartbreak",
+      "releaseDate": "November 25, 2008",
+      "trackList": [
+        "Say You Will",
+        "Welcome to Heartbreak",
+        "Heartless",
+        "Amazing",
+        "Love Lockdown",
+        "Paranoid",
+        "RoboCop",
+        "Street Lights",
+        "Bad News",
+        "See You in My Nightmares",
+        "Coldest Winter",
+        "Pinocchio Story"
+      ],
+      "image": "assets/albums/808s-heartbreak/cover.jpg"
+    },
+    {
+      "title": "My Beautiful Dark Twisted Fantasy",
+      "releaseDate": "November 22, 2010",
+      "trackList": [
+        "Dark Fantasy",
+        "Gorgeous",
+        "Power",
+        "All of the Lights",
+        "Monster",
+        "So Appalled",
+        "Devil in a New Dress",
+        "Runaway",
+        "Who Will Survive in America"
+      ],
+      "image": "assets/albums/my-beautiful-dark-twisted-fantasy/cover.jpg"
+    },
+    {
+      "title": "Yeezus",
+      "releaseDate": "June 18, 2013",
+      "trackList": [
+        "On Sight",
+        "Black Skinhead",
+        "I Am a God",
+        "New Slaves",
+        "Hold My Liquor",
+        "I'm In It",
+        "Blood on the Leaves",
+        "Guilt Trip",
+        "Send It Up",
+        "Bound 2"
+      ],
+      "image": "assets/albums/yeezus/cover.jpg"
+    },
+    {
+      "title": "The Life of Pablo",
+      "releaseDate": "February 14, 2016",
+      "trackList": [
+        "Ultralight Beam",
+        "Father Stretch My Hands Pt. 1",
+        "Pt. 2",
+        "Waves",
+        "Famous",
+        "Feedback",
+        "Low Lights",
+        "Highlights",
+        "Freestyle 4",
+        "I Love Kanye",
+        "Wolves",
+        "Silver Surfer Intermission",
+        "30 Hours",
+        "No More Parties in L.A.",
+        "Fade"
+      ],
+      "image": "assets/albums/the-life-of-pablo/cover.jpg"
+    },
+    {
+      "title": "Ye",
+      "releaseDate": "June 1, 2018",
+      "trackList": [
+        "I Thought About Killing You",
+        "Yikes",
+        "All Mine",
+        "Wouldn't Leave",
+        "No Mistakes",
+        "Ghost Town"
+      ],
+      "image": "assets/albums/ye/cover.jpg"
+    },
+    {
+      "title": "Jesus Is King",
+      "releaseDate": "October 25, 2019",
+      "trackList": [
+        "Every Hour",
+        "Selah",
+        "Follow God",
+        "Closed on Sunday",
+        "On God",
+        "Everything We Need",
+        "Water",
+        "God Is",
+        "Hands On",
+        "Use This Gospel",
+        "Jesus Is Lord"
+      ],
+      "image": "assets/albums/jesus-is-king/cover.jpg"
+    },
+    {
+      "title": "Donda",
+      "releaseDate": "August 29, 2021",
+      "trackList": [
+        "Donda Chant",
+        "Jail",
+        "God Breathed",
+        "Off the Grid",
+        "Hurricane",
+        "Praise God",
+        "Jonah",
+        "Ok Ok",
+        "Junya",
+        "Believe What I Say",
+        "24",
+        "Remote Control",
+        "Moon",
+        "Heaven and Hell",
+        "Donda"
+      ],
+      "image": "assets/albums/donda/cover.jpg"
+    }
+  ]
+}

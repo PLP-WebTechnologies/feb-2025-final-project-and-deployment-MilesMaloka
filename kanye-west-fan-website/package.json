@@ -1,0 +1,22 @@
+{
+  "name": "kanye-west-fan-website",
+  "version": "1.0.0",
+  "description": "A fan website dedicated to Kanye West, showcasing his albums, images, and songs.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build script not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "keywords": [
+    "Kanye West",
+    "music",
+    "albums",
+    "fan website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
